@@ -1,6 +1,17 @@
-# 📚 Navigation
+# Table of contents
 
-- [🛠️ Introduction](README.md)
-- [⚙️ System Preparation](setup.md)
-- [🧪 Configuration](configuration.md)
-- [🚀 Execution](usage.md)
+* [🏠 Welcome](README.md)
+
+## 📁 General
+* [📌 Information](information.md)
+* [🛒 Purchase](purchase.md)
+
+## 🛠️ Software Setup
+* [🧪 Preparation](preparation.md)
+* [⚙️ Configuration](configuration.md)
+* [🚀 Launching](launching.md)
+
+## 🆘 Troubleshooting
+* [🛠️ Common Issues](troubleshooting.md)
+* [❓ FAQ](faq.md)
+
